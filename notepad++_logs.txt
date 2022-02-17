@@ -5,6 +5,7 @@ Notepad++ v8.1.9.3 bug-fixes and enhancement:
 3.  Fix dockable panels lose background color issue when switching back Notepad++.
 4.  Fix dirty status persisting issue after reloading file.
 5.  Add Lua function list capacity.
+6.	Changes
 
 
 Notepad++ v8.1.9.2 bug-fixes:
