@@ -8,8 +8,6 @@ Notepad++ v8.1.9.3 bug-fixes and enhancement:
 6.  New Changes were made
 
 
-
-
-
+Changes for privatebranch1
 
 New changes for privatebranch2
